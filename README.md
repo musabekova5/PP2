@@ -1,2 +1,2 @@
-# PP2labs
+# PP2
 for publishing labs
