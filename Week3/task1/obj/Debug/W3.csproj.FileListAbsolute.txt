@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\task1\W3\bin\Debug\W3.exe.config
+C:\Users\Lenovo\source\repos\task1\W3\bin\Debug\W3.exe
+C:\Users\Lenovo\source\repos\task1\W3\bin\Debug\W3.pdb
+C:\Users\Lenovo\source\repos\task1\W3\obj\Debug\W3.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\task1\W3\obj\Debug\W3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\task1\W3\obj\Debug\W3.exe
+C:\Users\Lenovo\source\repos\task1\W3\obj\Debug\W3.pdb
