@@ -10,15 +10,15 @@ namespace task_3
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            int[] a = new int[n];
+            int n = int.Parse(Console.ReadLine());//ввод количества чисел в массиве
+            int[] a = new int[n];//массив
 
-            string[] nums = Console.ReadLine().Split(new char[] { ',', ';', '#', ' ' });
+            string[] nums = Console.ReadLine().Split(new char[] { ',', ';', '#', ' ' });//чтоб символы принимать
 
             
             for (int i = 0; i < nums.Length; ++i)
             {
-                Console.Write(nums[i] + " " + nums[i] + " ");
+                Console.Write(nums[i] + " " + nums[i] + " ");//дупликаты делает и выводит
             }
         }
     }
