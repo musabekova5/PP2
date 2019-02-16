@@ -5,3 +5,10 @@ C:\Users\Lenovo\Desktop\PP2\repos\w1ex\task_4\obj\Debug\task_4.csprojAssemblyRef
 C:\Users\Lenovo\Desktop\PP2\repos\w1ex\task_4\obj\Debug\task_4.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\PP2\repos\w1ex\task_4\obj\Debug\task_4.exe
 C:\Users\Lenovo\Desktop\PP2\repos\w1ex\task_4\obj\Debug\task_4.pdb
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\bin\Debug\task_4.exe.config
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\bin\Debug\task_4.exe
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\bin\Debug\task_4.pdb
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\obj\Debug\task_4.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\obj\Debug\task_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\obj\Debug\task_4.exe
+C:\Users\Lenovo\Desktop\PP2\repos\PP2\PP2\Week3\PP2\Week1\task4\obj\Debug\task_4.pdb
