@@ -11,10 +11,10 @@ namespace task_2
     {
         static void Main(string[] args)
         {
-            Student st = new Student("Samal", "18BD117379", 0);
+            Student st = new Student("Samal", "18BD117379", 0); //задаем параметры
             st.PrintInfo();
-            Student s = new Student("Samal", "18BD117379");
-            s.year = st.year + 1;
+            Student s = new Student("Samal", "18BD117379");//параметры без года обучения
+            s.year = st.year + 1;//добавление года обучения 
             s.PrintInfo();
         }
     }

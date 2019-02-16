@@ -8,14 +8,14 @@ namespace task_2.Properties
 {
     class Student
     {
-        string name = null;
+        string name = null;// пока что даем ноль 
         public string Name
         {
-            get //accessor
+            get //аксессор
             {
                 return name;
             }
-            set //mutator
+            set //мутатор
             {
                 name = value;
             }
@@ -24,11 +24,11 @@ namespace task_2.Properties
         public int year;
 
         #region constructor
-        public Student()
+        public Student()//создаем конструктор по умолчанию сначала 
         {
 
         }
-        public Student(string name, string ID, int year)
+        public Student(string name, string ID, int year)//конструктор пользовательский
         {
             Name = name;
             this.ID = ID;
@@ -41,7 +41,7 @@ namespace task_2.Properties
 
         }
         #endregion
-        public void PrintInfo()
+        public void PrintInfo()//выводим
         {
             Console.WriteLine(Name + " " + ID + " " + year);
         }
