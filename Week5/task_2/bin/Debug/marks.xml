@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Marklist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Marks>
+    <Mark>
+      <p>55</p>
+    </Mark>
+    <Mark>
+      <p>96</p>
+    </Mark>
+    <Mark>
+      <p>70</p>
+    </Mark>
+  </Marks>
+</Marklist>
